@@ -9,7 +9,7 @@
       - org.projectlombok:lombok
       - org.springframework.boot:spring-boot-starter-test
     - org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.0-SNAPSHOT
-    - org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.0-M5
+    - org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.0-M6
     - org.apache.shardingsphere:shardingsphere-jdbc-core-spring-boot-starter:5.2.1-SNAPSHOT
 
 - Test with https://github.com/apache/shardingsphere/commit/589d28da30221087f5c2aea7d5abd5fdba74ee5a
